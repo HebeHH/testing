@@ -1,0 +1,17 @@
+<planner>
+    <project id = 1 name =  'Homework'>
+        <task id = 1 name =  'Lab'>
+            <user id = 1 name =  'Bob'><\user>
+            <user id = 2 name =  'Alice'><\user>
+        <\task>
+        <task id = 1 name =  'Quiz'>
+            <user id = 3 name =  'Kelly'><\user>
+        <\task>
+    <\project>
+    <project id = 2 name =  'Internship'>
+        <task id = 1 name =  'Database'>
+            <user id = 2 name =  'Alice'><\user>
+            <user id = 3 name =  'Kelly'><\user>
+        <\task>
+    <\project>
+<\planner>
