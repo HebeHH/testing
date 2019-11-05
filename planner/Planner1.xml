@@ -1,5 +1,5 @@
 <planner>
-    <project id = 1 name =  'Homework'>
+    <project id = 1 name =  'Softeng'>
         <task id = 1 name =  'Lab'>
             <user id = 1 name =  'Bob'><\user>
             <user id = 2 name =  'Alice'><\user>
